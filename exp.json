@@ -1,0 +1,25 @@
+{
+  "name": "reactjs-malaysia",
+  "description": "No description",
+  "slug": "reactjs-malaysia",
+  "privacy": "public",
+  "sdkVersion": "17.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/images/logo.png",
+  "notification": {
+    "icon": "./assets/images/logo.png",
+    "color": "#000000"
+  },
+  "loading": {
+    "icon": "./assets/images/logo.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
